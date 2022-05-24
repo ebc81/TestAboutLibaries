@@ -1,0 +1,11 @@
+{
+  "uniqueId": "aaaa.aaaa.library:custom",
+  "developers": [],
+  "artifactVersion": "42.0",
+  "description": "",
+  "name": "ABC Custom Jetpack library",
+  "tag": "AAAcustom",
+  "licenses": [
+    "asdkl"
+  ]
+}
